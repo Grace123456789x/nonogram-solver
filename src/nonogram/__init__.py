@@ -1,1 +1,1 @@
-
+# Nonogram solver package
